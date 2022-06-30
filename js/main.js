@@ -1,7 +1,7 @@
-// const point1 = document.querySelector('.point-1')
-// const point2 = document.querySelector('.point-2')
-// const point3 = document.querySelector('.point-3')
-// const point4 = document.querySelector('.point-4')
+const point1 = document.querySelector('.point-1')
+const point2 = document.querySelector('.point-2')
+const point3 = document.querySelector('.point-3')
+const point4 = document.querySelector('.point-4')
 const wildlifeWrapper = document.querySelector('#wildlife-wrapper')
 const wrrWrapper = document.querySelector('#wrr-wrapper')
 
